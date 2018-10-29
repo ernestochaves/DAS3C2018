@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Tests", "Lab07.Tests\Lab07.Tests.csproj", "{828400BA-AEB8-4C90-A18E-AE007135E0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{0DBFC63E-6167-4F94-80A1-EB16764D0F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E075BB9C-07B8-46B5-AA08-E323722AD157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828400BA-AEB8-4C90-A18E-AE007135E0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828400BA-AEB8-4C90-A18E-AE007135E0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828400BA-AEB8-4C90-A18E-AE007135E0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828400BA-AEB8-4C90-A18E-AE007135E0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBFC63E-6167-4F94-80A1-EB16764D0F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBFC63E-6167-4F94-80A1-EB16764D0F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBFC63E-6167-4F94-80A1-EB16764D0F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBFC63E-6167-4F94-80A1-EB16764D0F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E075BB9C-07B8-46B5-AA08-E323722AD157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E075BB9C-07B8-46B5-AA08-E323722AD157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E075BB9C-07B8-46B5-AA08-E323722AD157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E075BB9C-07B8-46B5-AA08-E323722AD157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08760119-9822-41A6-97FD-1C8FB6AC9DA8}
+	EndGlobalSection
+EndGlobal
